@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/.idea/.idea.Qonect.Api/.idea/encodings.xml
+/.idea/.idea.Qonect.Api/.idea/indexLayout.xml
+/.idea/.idea.Qonect.Api/.idea/projectSettingsUpdater.xml
+/.idea/.idea.Qonect.Api/.idea/vcs.xml
+/.idea/.idea.Qonect.Api/.idea/workspace.xml

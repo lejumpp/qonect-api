@@ -1,0 +1,7 @@
+﻿services:
+  qonect.api:
+    image: qonect.api
+    build:
+      context: .
+      dockerfile: Dockerfile
+
